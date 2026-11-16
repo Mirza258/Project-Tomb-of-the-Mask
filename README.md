@@ -4,8 +4,10 @@
 
 ![Screenshot](docs/screenshot.png)
 
+![Map editor](docs/map-editor.png)
+
 ## Za projekat koristeno
 
-- **CODE::BLOCKS** 25.04
+- **CODE::BLOCKS** 25.04 (po zahtjevu profesora)
 - **Game:** C++ 11
 - **Editor:** C++ 14
